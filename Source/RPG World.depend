@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605813017 source:d:\travail\informatique et réseau\logiciel algorithme\rpg world\rpg world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<stdbool.h>
+
