@@ -1,0 +1,2 @@
+# WorldRPGCMD
+CMD GAME
